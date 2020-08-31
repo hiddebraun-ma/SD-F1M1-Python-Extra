@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 show_downloads: false
-site:
-  github:
-    is_project_page: false
+github:
+  is_project_page: false
