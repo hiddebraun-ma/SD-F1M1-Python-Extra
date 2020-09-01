@@ -8,12 +8,11 @@ Het doel is dan ook om in deze les een mooi kunstwerk of animatie (of beide) te 
 
 
 ### Leerdoelen van deze les
-* Een ingebouwde module importeren en aanroepen met code (Turtle)
-* In de documentatie lezen hoe die module werkt en dit uitproberen
-* Aansturen van de turtle met code
-* Werken met het coordinaten systeem van Turtle
-* Repeteerbare code schrijven (met loops)
-
+* Ik kan de Turtle module inladen in mijn eigen Python script en een nieuwe Turtle maken
+* Ik kan de meest gebruikte functies aanroepen en daarmee de "turtle" aansturen zoals ik dat wil
+* Ik kan een voorbeeld afbeelding natekenen door code te schrijven die de Turtl
+* Ik kan het coordinaten systeem van Turtle uitleggen
+* Ik kan repeterende code schrijven en een "automatische" tekening maken op het scherm door gebruik te maken van een for..in loop en de range() functie
 
 ### Hulplijnen en documentatie
 
@@ -23,6 +22,6 @@ Het doel is dan ook om in deze les een mooi kunstwerk of animatie (of beide) te 
 
 ## Opdrachten / uitdagingen
 
-[Ga naar deze pagina om aan de eerste uitdaging te beginnen](turtle_opdracht_01.md)
+[Ga naar deze pagina om aan de eerste opdracht te beginnen](turtle_opdracht_01.md)
 
 
