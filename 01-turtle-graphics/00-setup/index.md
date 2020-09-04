@@ -1,8 +1,8 @@
-### Github repository voor Python Extra maken
+### 01. Map en Github repository voor Python Extra maken en koppelen
 
 Voor de Python Extra lessen werk je als volgt:
 
-1. Je maakt éénmalig een map **Flex-PythonExtra** aan op een handige plek op jouw computer. *Onthoud die plek!*
+1. Je maakt éénmalig de map **Flex-PythonExtra** aan op een handige plek op jouw computer. *Onthoud die plek!*
 2. Je maakt ook een Github repository aan met dezelfde naam: **Flex-PythonExtra**
 3. De map **Flex-PythonExtra** op je computer koppel je vervolgens aan je **Flex-PythonExtra** Github repository 
 4. Tijdens de Python Extra lessen werk je dus **ALTIJD** in de **PythonExtra** map!
@@ -99,6 +99,11 @@ Nu kun je jouw wijzigingen **committen** en **pushen** naar Github.
 
 Kijk nu in je Github repository of je commit en wijziging er staat:
 ![](check_commit.gif)
+
+---
+
+### Door naar de eerste opdracht
+[Opdracht 1](../01-start-demo/index.md)
 
 
 

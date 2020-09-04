@@ -10,18 +10,18 @@ De Python Extra (FLEX) lessen zijn bedoeld om je verder te verdiepen in het prog
 
 ### Onderwerpen
 
-Overzicht van onderwerpen van de Python Extra (FLEX) lessen in de module "Hello You":
+**Voorlopig** overzicht van onderwerpen Python Extra (FLEX) in de module "Hello You":
 
 1. [Tekenen en animeren in Python met Turtle](01-turtle-graphics/index.md)
 2. Lezen en schrijven naar bestanden en mappen / Bestandssysteem
 3. Arcade game engine
-3. Je eigen animated GIF’s en Meme’s maken met Pillow
-4. Tekstmanipulatie met reguliere expressies (wat zijn dat?)
-5. Datum en tijd gebruiken in Python code
-6. Beter worden met lists?
-7. Een e-mail sturen met Python
-8. Code van andere developers gebruiken
-9. ... ?
+4. Je eigen animated GIF’s en Meme’s maken met Pillow
+5. Tekstmanipulatie met reguliere expressies (wat zijn dat?)
+6. Datum en tijd gebruiken in Python code
+7. Beter worden met lists?
+8. Een e-mail sturen met Python
+9. Code van andere developers gebruiken
+10. ... ?
 
 ---
 

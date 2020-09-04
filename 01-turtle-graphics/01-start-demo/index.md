@@ -1,10 +1,10 @@
-## Opdracht 1 - Peace!
+# Opdracht 2 - Turtle DEMO bekijken
 
 ---
 
 Vanaf de command line / terminal kun je een ingebouwde demo van Turtle starten. Er zijn er een aantal.
 
-Probeer eerst onderstaand commando uit te voeren  
+Probeer eerst onderstaand commando uit te voeren: 
 
 ```bash
 python3 -m turtledemo.peace
@@ -26,9 +26,7 @@ python3 -m turtledemo
 ![Kopieer de code](turtle_opdracht_01_copycode.gif)
 
 
-En ga door naar de volgende opdracht. 
-
----
+### Door naar de volgende opdracht. 
 [Naar opdracht 2: Your own piece of peace ](turtle_opdracht_02.md)
 
 
