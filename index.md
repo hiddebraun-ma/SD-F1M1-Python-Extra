@@ -49,7 +49,7 @@ Om de module **Hello You** voldoende af te sluiten is actieve deelname en aanwez
 
 **In de eerste les maak je deze Github repository aan en maak je daar de eerste opdracht in** (en later ook de andere opdrachten en oefeningen)
 
-[Github repository aanmaken voor Python Extra](00-setup/github_setup.md)
+[Github repository aanmaken voor Python Extra](00-setup/index.md)
 
 
 
