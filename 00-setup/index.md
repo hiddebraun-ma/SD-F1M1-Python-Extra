@@ -1,37 +1,37 @@
-### 01. Map en Github repository voor Python Extra maken en koppelen
-
 Voor de Python Extra lessen werk je als volgt:
 
-1. Je maakt éénmalig de map **Flex-PythonExtra** aan op een handige plek op jouw computer. *Onthoud die plek!*
-2. Je maakt ook een Github repository aan met dezelfde naam: **Flex-PythonExtra**
-3. De map **Flex-PythonExtra** op je computer koppel je vervolgens aan je **Flex-PythonExtra** Github repository 
-4. Tijdens de Python Extra lessen werk je dus **ALTIJD** in de **PythonExtra** map!
-5. Je maakt aan het begin van elke les een nieuwe submap aan de les van die week, met als naam het onderwerp van die week.
-5. In die map zet je dus al je Python code en andere bestanden.
-6. Aan het einde van de les  **commit** je alles en **push** je dit naar je Github repository. 
+1. Maak éénmalig de map **Flex-PythonExtra** aan op een handige plek op jouw computer. *Onthoud die plek!*
+2. Maak een Github repository met dezelfde naam: **Flex-PythonExtra**
+3. Koppel de map **Flex-PythonExtra** op je computer aan de **Flex-PythonExtra** Github repository 
+4. Tijdens de Python Extra lessen werk je  **ALTIJD** in deze **PythonExtra** map!
+5. Aan het begin van elke Python Extra les maak je hier in een nieuwe map aan
+6. In die map zet je alle Python code en andere bestanden.
+7. Aan het einde van de les **commit** en **push** je alles naar je Github repository. 
 
-Hier staat hoe je die Github repository aanmaakt en koppelt aan de map. En een voorbeeld hoe je code er in zet, commit en pusht.
+**Hieronder staat hoe je die Github repository aanmaakt en koppelt aan de map. En een voorbeeld hoe je code er in zet, commit en pusht.**
 
 *Dit ga je veel doen de komende tijd!*
 
 ---
 
-#### 1. Map maken: Flex-PythonExtra
+## 1. Map maken: Flex-PythonExtra
 
 * Ga naar de plek waar je de map wil en maak daar de map "Flex-PythonExtra"
 
 ---
 
-#### 2. Github repository maken
+## 2. Nieuwe Github repository maken
 Login op Github en klik op "New repository"
+
 ![](new_repository.png)
 
-Vul de gegevens als volgt in, met jouw naam en klas en selecteer  de optie om een README.me bestand te maken. Klik dan op "Create repository":
+Vul de gegevens als volgt in, met jouw naam en klas en **selecteer de optie om een README.me bestand te maken**. Klik dan op "Create repository":
+
 ![](create_repo.png)
 
 ---
 
-#### 3. Github repository maken
+## 3. Git repository maken op je computer
 Ga naar de map **Flex-PythonExtra** en open daar een powershell (Windows) of terminal venster (Mac)
 
 Initialiseer een nieuwe Git repository met het volgende commando:
@@ -39,19 +39,22 @@ Initialiseer een nieuwe Git repository met het volgende commando:
 ```bash
 git init
 ```
+
 ![](git_init.gif)
 
 ---
 
-#### 4. Kopieer de URL van je Github repository
+## 4. Kopieer de URL van je Github repository
 Ga naar je Github repository en kopieer de **HTTPS** url onder de Code knop:
+
 ![](github_copy_url.gif)
 
 ---
 
-#### 5. Github repository koppelen aan de Git repository op je computer
+## 5. Github repository koppelen aan de Git repository op je computer
 
 Met het commando `git remote add origin <URL>` koppel je je Github repository aan de map op je computer. Bij `<URL>` plak je de url die je in stap 4 hebt gekopieerd.
+
 ![](git_remote_add.gif)
 
 Je kunt controleren of het gelukt is met het commando: 
@@ -64,7 +67,7 @@ Dit laat zien welke externe Git repository (Github) aan je lokale repository (op
 
 ---
 
-#### 6. De laatste wijzigingen van Github halen
+## 6. De laatste wijzigingen van Github halen
 Nu de map goed is gekoppeld kun je alle wijzigingen die je nog niet hebt, ophalen van Github. Want (weet je nog) je hebt een README.md bestand gemaakt.
 
 Voer nu dit commando uit:
@@ -72,6 +75,7 @@ Voer nu dit commando uit:
 ```bash
 git pull origin master
 ```
+
 ![](git_pull_origin_master.gif)
 
 Hiermee haal je de `master` branch op naar je computer (de `master` is de standaard branch in Git)
@@ -80,14 +84,15 @@ Hiermee haal je de `master` branch op naar je computer (de `master` is de standa
 
 ---
 
-#### 7. README bestand wijzigen
+## 7. README bestand wijzigen
 Je gaat nu een wijziging doen aan het README.md bestand.  
 Open het bestand `README.md` in kladblok, of een andere tekst editor en zet jouw naam en klas er in en bewaar het bestand.
+
 ![](readme_edit.gif)
 
 ---
 
-#### 8. De wijzigingen opsturen naar Github
+## 8. De wijzigingen opsturen naar Github
 Nu kun je jouw wijzigingen **committen** en **pushen** naar Github. 
 
 1. Eerst kijk je met `git status` wat de wijzigingen zijn. 
@@ -98,21 +103,11 @@ Nu kun je jouw wijzigingen **committen** en **pushen** naar Github.
 ![](git_commit_push.gif)
 
 Kijk nu in je Github repository of je commit en wijziging er staat:
+
 ![](check_commit.gif)
 
 ---
 
-### Door naar de eerste opdracht
-[Opdracht 1](../01-start-demo/index.md)
+# Eindelijk... aan de slag
 
-
-
-
-
-
-
-
-
-
-
-
+[Aan de slag met Turtle graphics](../01-turtle-graphics/index.md)

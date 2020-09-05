@@ -1,4 +1,11 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
+repository: hiddebraun-ma/SD-F1M1-Python-Extra
+
+title: "Python Extra - Flex"
+description: "Extra verdieping in het programmeren met Python"
+
 show_downloads: false
+show_github: false
+
 github:
   is_project_page: false

@@ -1,34 +1,41 @@
-# Opdracht 2 - Turtle DEMO bekijken
+# 01. Turtle DEMO bekijken
 
 ---
 
-Vanaf de command line / terminal kun je een ingebouwde demo van Turtle starten. Er zijn er een aantal.
+## Toon de Peace demo
+
+Vanaf de command line / terminal kun je de ingebouwde demo mode van Turtle starten. 
 
 Probeer eerst onderstaand commando uit te voeren: 
-
-```bash
-python3 -m turtledemo.peace
-```
-
-*Let op, afhankelijk van jouw systeem moet je mischien `python3` vervangen door `python` of `py`*
-
-De volgende stap is om de Python broncode van deze demo te kopieren naar een eigen script. Om ALLE demo's te zien van Turtle voer eerste dit commando uit:
 
 ```bash
 python3 -m turtledemo
 ```
 
-1. Kies nu boven in het menu voor **examples** en kies voor **peace**
-2. Je krijgt nu aan de linkerkant de broncode en aan de rechterkant de demo te zien
-3. Selecteer nu de tekst vanaf ```from turtle import *``` tot aan het einde en kopieer deze code met toetsencombinatie **CTRL + C** (copy) naar je *clipboard* (tijdelijke geheugen)
+> Let op, afhankelijk van jouw systeem moet je mischien `python3` vervangen door `python` of `py`, onthoud dit goed!
 
+Als het goed is zie je nu een venster openen. Kies nu bovenin bij het menu voor "examples" en kies één van de demo's. 
 
-![Kopieer de code](turtle_opdracht_01_copycode.gif)
+![](turtle_examples.png)
 
+Druk dan op de **start knop** om de gekozen demo te starten. Probeer er daarna nog een paar uit.
 
-### Door naar de volgende opdracht. 
-[Naar opdracht 2: Your own piece of peace ](turtle_opdracht_02.md)
+**Sluit het venster**
 
+---
 
+## Eén van de demo's starten
 
+Je kunt ook alleen één van de demo's starten:
 
+```bash
+python3 -m turtledemo.peace
+```
+
+Probeer nu een van de andere demo's te starten van de command line. Gebruik de namen uit het *examples* menu in de Turtle demo.
+
+---
+
+## Volgende stap
+
+[Zelf de Turtle besturen](../02-play-with-turtle-cli)

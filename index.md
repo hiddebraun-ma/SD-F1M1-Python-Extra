@@ -1,4 +1,4 @@
-## Flex: Python Extra
+# Flex: Python Extra
 **Elke donderdag 13:45 - 15:45 ONLINE**
 
 ![](meme.jpg)
@@ -8,7 +8,7 @@ De Python Extra (FLEX) lessen zijn bedoeld om je verder te verdiepen in het prog
 
 ---
 
-### Onderwerpen
+## Onderwerpen
 
 **Voorlopig** overzicht van onderwerpen Python Extra (FLEX) in de module "Hello You":
 
@@ -25,7 +25,7 @@ De Python Extra (FLEX) lessen zijn bedoeld om je verder te verdiepen in het prog
 
 ---
 
-### Wat heb je nodig?
+## Wat heb je nodig?
 In ieder geval heb je er zin in en vind je het leuk om zelf aan de slag te gaan met code. Nieuwsgierigheid en doorzettingsvermogen helpen hier bij.
 
 Om aan de lessen mee te kunnen doen heb je een laptop/computer nodig met:
@@ -41,7 +41,7 @@ Kom je er niet uit vraag dan hulp aan je buddy uit het 2e of 3e jaar of vraag ee
 
 ---
 
-### Werkwijze en beoordeling
+## Werkwijze en beoordeling
 
 Om de module **Hello You** voldoende af te sluiten is actieve deelname en aanwezigheid vereist. Omdat deze lessen online worden gegeven is het van belang dat je op tijd aanwezig bent en actief meedoet en vragen stelt als je er niet uit komt.
 

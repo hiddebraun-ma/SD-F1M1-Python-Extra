@@ -3,4 +3,28 @@
 
 @import "{{ site.theme }}";
 
+header {
+    background: #000;
+
+    h1 {
+        color: #fff;
+        text-shadow: none;
+    }
+}
+
+body {
+    background: #ededed;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h3, h4, h5, h6 {
+    color: #FF1293;
+}
+
+hr {
+    background: #888;
+    height: 2px;
+}
 
