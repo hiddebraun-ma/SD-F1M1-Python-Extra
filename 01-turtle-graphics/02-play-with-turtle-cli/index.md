@@ -30,12 +30,13 @@ Om met de Turtle te spelen moeten we de *turtle* module eerst in de Python inter
 import turtle
 ```
 
-Je hebt nu de Turtle module ingeladen. Maar wat nu?
-Om snel te zien wat er in een module zit kun je het commando *help* of **dir(<naam module>)** geven.
+Je hebt nu de Turtle module ingeladen en kan er mee aan de slag!
 
 ---
 
 ## Documentatie op het scherm tonen
+
+Om snel te zien wat er in een module zit kun je het commando *help()* of *dir()* geven.
 
 ```python
 help(turtle)
