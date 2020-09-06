@@ -15,7 +15,9 @@ Voor de Python Extra lessen ga je eerst een map en Github repository maken om al
 
 ## 1. Map maken: Flex-PythonExtra
 
-* Ga naar de plek waar je de map wil en maak daar de map "Flex-PythonExtra"
+Ga naar de plek waar je de map wil en maak daar de map *"Flex-PythonExtra"*
+
+![](map-pythonextra.png)
 
 ---
 
@@ -31,7 +33,7 @@ Vul de gegevens als volgt in, met jouw naam en klas en **selecteer de optie om e
 ---
 
 ## 3. Git repository maken op je computer
-Ga naar de map **Flex-PythonExtra** en open daar een Powershell/Command venster (Windows) en als je op een Mac werkt een Terminal venster.
+Ga naar de map **Flex-PythonExtra** en open daar een Powershell/Command venster (Windows) en als je op een Mac werkt een [Terminal venster](mac_terminal){:target="_blank"}.
 
 Zorg dat je in de **Flex-PythonExtra** map staat en *initialiseer een nieuwe Git repository* met het volgende commando:
 
@@ -84,7 +86,7 @@ Hiermee haal je de `master` branch op naar je computer (de `master` is de standa
 ---
 
 ## 7. README bestand wijzigen
-Je gaat nu een wijziging doen aan het README.md bestand.  
+Je gaat nu een wijziging doen aan het `README.md` bestand.  
 Open het bestand `README.md` in kladblok, of een andere tekst editor en zet jouw naam en klas er in en bewaar het bestand.
 
 ![](readme_edit.gif)
@@ -94,16 +96,26 @@ Open het bestand `README.md` in kladblok, of een andere tekst editor en zet jouw
 ## 8. De wijzigingen opsturen naar Github
 Nu kun je jouw wijzigingen **committen** en **pushen** naar Github. 
 
-1. Eerst kijk je met `git status` wat de wijzigingen zijn. 
-2. Dan selecteer je alle wijzigingen met `git add .`
-3. Nu commit je alles met een duidelijke commit message: `git commit -m "README gewijzigd"`
-4. En dan kun je de master branch naar Github (de origin) pushen  met: `git push -u origin master`
+* Eerst kijk je met `git status` wat de wijzigingen zijn. 
+* Dan selecteer je alle wijzigingen met `git add .` 
+* Nu commit je alles: `git commit -m "README gewijzigd"`
+* Wijzigingen naar Github *pushen*: `git push -u origin master`
 
 ![](git_commit_push.gif)
 
 Kijk nu in je Github repository of je commit en wijziging er staat:
 
 ![](check_commit.gif)
+
+---
+
+## Lever je Github URL in
+
+Als dit allemaal gelukt is, lever dan de Github URL via deze link in:
+[Klik hier om je Python Extra Github URL in te leveren]({{ site.flex.form_link }}){:target="_blank" }
+
+> Zo kan ik je helpen, feedback geven en uiteindelijk ook al je werk beoordelen
+
 
 ---
 

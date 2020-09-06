@@ -9,3 +9,6 @@ show_github: false
 
 github:
   is_project_page: false
+
+flex:
+  form_link: "https://forms.office.com/Pages/ResponsePage.aspx?id=kg9gjt8wZ0a3wD8llfPxK9aHW92lhXFCgyLObl_NWNJURFpRME1OS0lLTDVOQ01DQUNGMEMwTkhJNC4u"
