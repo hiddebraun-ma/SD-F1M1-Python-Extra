@@ -1,16 +1,15 @@
-Voor de Python Extra lessen werk je als volgt:
+# Map en Github repository maken voor Python Extra
 
-1. Maak éénmalig de map **Flex-PythonExtra** aan op een handige plek op jouw computer. *Onthoud die plek!*
-2. Maak een Github repository met dezelfde naam: **Flex-PythonExtra**
+Voor de Python Extra lessen ga je eerst een map en Github repository maken om al je werk in op te slaan.
+
+1. Maak een map **Flex-PythonExtra** aan op een handige plek op jouw computer. *En onthoud die plek!*
+2. Maak ook Github repository aan met dezelfde naam: **Flex-PythonExtra**
 3. Koppel de map **Flex-PythonExtra** op je computer aan de **Flex-PythonExtra** Github repository 
-4. Tijdens de Python Extra lessen werk je  **ALTIJD** in deze **PythonExtra** map!
-5. Aan het begin van elke Python Extra les maak je hier in een nieuwe map aan
-6. In die map zet je alle Python code en andere bestanden.
-7. Aan het einde van de les **commit** en **push** je alles naar je Github repository. 
+4. Voor elke Python Extra les maak je hier een nieuwe map aan
+5. In die map werk je die week
+6. Aan het einde van de les **commit** en **push** je alles naar je Github repository. 
 
 **Hieronder staat hoe je die Github repository aanmaakt en koppelt aan de map. En een voorbeeld hoe je code er in zet, commit en pusht.**
-
-*Dit ga je veel doen de komende tijd!*
 
 ---
 
@@ -32,9 +31,9 @@ Vul de gegevens als volgt in, met jouw naam en klas en **selecteer de optie om e
 ---
 
 ## 3. Git repository maken op je computer
-Ga naar de map **Flex-PythonExtra** en open daar een powershell (Windows) of terminal venster (Mac)
+Ga naar de map **Flex-PythonExtra** en open daar een Powershell/Command venster (Windows) en als je op een Mac werkt een Terminal venster.
 
-Initialiseer een nieuwe Git repository met het volgende commando:
+Zorg dat je in de **Flex-PythonExtra** map staat en *initialiseer een nieuwe Git repository* met het volgende commando:
 
 ```bash
 git init
