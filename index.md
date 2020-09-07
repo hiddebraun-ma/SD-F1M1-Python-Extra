@@ -1,16 +1,15 @@
 # Flex: Python Extra
-**Elke donderdag 13:45 - 15:45 ONLINE**
 
 ![](meme.jpg)
 ---
 
-> De Python Extra (FLEX) lessen zijn bedoeld om je verder te verdiepen in het programmeren in de Python programmeertaal **als aanvulling op** de normale lessen Python die je krijgt.
+> De Python Extra (FLEX) lessen zijn bedoeld om je verder te verdiepen in het programmeren in de Python programmeertaal. De lessen zijn een extra aanvulling op Python lessen die je krijgt deze periode.
 
 ---
 
 ### Onderwerpen
 
-**Voorlopig** overzicht van onderwerpen Python Extra (FLEX) in de module "Hello You":
+Overzicht van onderwerpen Python Extra (voorlopig)
 
 1. [Tekenen en animeren in Python met Turtle](01-turtle-graphics/index.md)
 2. Lezen en schrijven van bestanden en mappen / Bestandssysteem
@@ -26,6 +25,7 @@
 ---
 
 ### Wat heb je nodig?
+
 In ieder geval heb je er zin in en vind je het leuk om zelf aan de slag te gaan met code. Nieuwsgierigheid en doorzettingsvermogen helpen hier bij.
 
 Om aan de lessen mee te kunnen doen heb je een laptop/computer nodig met:
@@ -51,6 +51,7 @@ Om de module **Hello You** voldoende af te sluiten is actieve deelname en aanwez
 
 ---
 ## Volgende stap
+
 [Map en Github repository maken voor Python Extra](00-setup/index.md)
 
 
