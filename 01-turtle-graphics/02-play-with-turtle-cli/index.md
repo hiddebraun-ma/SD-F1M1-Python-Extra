@@ -36,21 +36,20 @@ Je hebt nu de Turtle module ingeladen en kan er mee aan de slag!
 
 ## Documentatie op het scherm tonen
 
-Om snel te zien wat er in een module zit kun je het commando *help()* of *dir()* geven.
+Om snel te zien wat er in een geimporteerde Python module zit, kun je het *help()* of *dir()* gebruiken en daar de naam van de module aan geven:
 
 ```python
 help(turtle)
 ````
 
-Dit laat de documentatie van de turtle module zien.
-- Met spatie kun je elke keer naar volgend scherm. 
-- Met de letter `q` stop je de help weergave en kom je terug in de interpreter
-
-Het leest fijner in een browser, dus je kunt ook naar de link gaan die wordt getoond:
-[https://docs.python.org/3.8/library/turtle](https://docs.python.org/3.8/library/turtle){:target="_blank"}
-
 ![](turtle_help.png)
 
+Dit laat de documentatie van de turtle module zien.
+- Met het `pijltje naar beneden` kun je per regel naar beneden
+- Met `spatie` kun je naar het volgende scherm. 
+- Met de letter `q` stop je de help weergave en kom je terug in de interpreter
+
+> Het leest fijner in een browser, dus je kunt ook naar [de link gaan die wordt getoond](https://docs.python.org/3.8/library/turtle.html){:target="_blank"}.
 
 ---
 
@@ -104,7 +103,7 @@ Probeer nu zelf of je de `help()` functie kunt gebruiken om informatie over éé
 
 ## Een venster openen om in te tekenen
 
-De ingebouwde `help()` functie van Python geeft handige informatie over HOE een bepaalde commando werkt.   Bijvoorbeeld hoe het **setup** commando** werkt.
+De ingebouwde `help()` functie van Python geeft handige informatie over HOE een commando werkt. Bijvoorbeeld hoe het **setup** commando** werkt.
 
 We kunnen met het **setup()** commando het venster instellen waarin we gaan tekenen.
 
@@ -118,9 +117,9 @@ Laten we een venster maken met een *width* van 400 en *height* 400 en de *startx
 turtle.setup(400, 400, 0, 0)
 ```
 
-Als het goed is opent er nu een venster met deze afmetingen en wordt de pen waarmee je gaat tekenen op positie 0,0 gezet.
+Als het goed is opent er nu een venster met deze afmetingen en staat het venster op een afstand van 0,0 van de linker bovenhoek van je scherm (x=0, y=0)
 
-> Maak je terminal en turtle venster klein genoeg zodat je ze naast elkaar kunt zetten
+> Sleep je terminal en het turtle venster zo, dat je ze naast elkaar kunt zetten en meteen ziet wat er gebeurt als je een commando uitvoert.
 
 ![](window_sidetoside.png)
 
@@ -144,6 +143,8 @@ turtle.forward(100)
 turtle.right(90)
 turtle.forward(100)
 ```
+
+> Lukt het je nu om een vierkant te maken?
 
 En weer even alles resetten:
 
@@ -188,14 +189,15 @@ Je kunt ook [online hulp](https://docs.python.org/3/library/turtle.html#turtle-m
 
 ## Probeer nu zelf de volgende uitdagingen
 
-- Teken een vierkant
-- Teken een rechthoek
-- Teken een driehoek
-- Teken een cirkel
+- Teken een driehoek  (hint: hoek = 360 / 3)
+- Teken een vijfhoek (hint: hoek = 360 / 5)
+- Teken een zeshoek (hint: hoek = 360 / 6)
+- Teken een tienhoek 
+- Teken een cirkel. 
 - Teken een ster
 - Teken 3 vierkanten
 
-> Maak een schermfoto van wat je hebt gemaakt en sla deze op in de map van deze week
+> Maak een schermfotos van wat je hebt gemaakt en sla deze op in de map van deze week.
 
 ---
 

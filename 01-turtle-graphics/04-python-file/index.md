@@ -1,11 +1,12 @@
-# Werken met een los Python script met commando's
+# Werken met een los Python bestand met code
 
-Tot nu toe ben je in de Python Interpreter bezig geweest. Elke regel werd direct uitgeveord nadat je op ENTER drukte.
-Nu gaan we een **los Python bestand** maken die we gaan uitvoeren.
-
+Tot nu toe heb je in de Python Interpreter gewerkt.  
+Elke regel werd direct uitgevoerd nadat je op ENTER drukte.
+Nu gaan we een **apart Python bestand** maken die we gaan uitvoeren.
 
 ## Open de Python IDLE editor
-Zoek op je computer naar IDLE (meegeleverde Python editor)
+Zoek op je computer naar IDLE, dit is de al geinstalleerde Python editor.
+
 
 ### Windows
 In **Windows** vind je deze door in de zoekbalk te zoeken naar IDLE. 
@@ -21,7 +22,7 @@ Op een **Mac** vind je IDLE bij *Programma's/Apps > Python 3.x -> IDLE*:
 
 ---
 
-## Maak een Python script
+## Maak een nieuw Python script
 Als je IDLE opstart zie je weer de Python Interpreter waar je net al in hebt gewerkt. Deze kun je nog steeds gebruiken om dingen in uit te proberen.
 
 Je gaat nu een los bestand maken waar je Python code in gaat zetten:
@@ -34,8 +35,9 @@ Bewaar het bestand:
 
 ![](save_file_01.png)
 
-Ga naar de map voor deze week en sla het bestand op als **<jouwvoornaam>.py**  s
-Gebruik in plaats van <jouwnaam> natuurlijk je echte voornaam, en gebruik alleen kleine letters!
+Ga naar de map waar je in werkt deze week (submap van je **Flex-PythonExtra** map)  en sla het bestand op als: *&lt;jouwvoornaam&gt;.py* 
+
+> Gebruik in plaats van &lt;jouwnaam&gt; natuurlijk je echte voornaam, en gebruik alleen kleine letters!
 
 ![](save_file_02.png)
 
