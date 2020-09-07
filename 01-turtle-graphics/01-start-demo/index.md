@@ -1,8 +1,6 @@
-# 01. Turtle DEMO bekijken
-
 ---
-
-## Toon de Peace demo
+title: Turtle DEMO bekijken
+---
 
 Vanaf de command line / terminal kun je de ingebouwde demo mode van Turtle starten. 
 

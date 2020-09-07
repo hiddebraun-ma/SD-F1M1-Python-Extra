@@ -1,4 +1,6 @@
-# 02. Zelf de Turtle besturen
+---
+title: Zelf de Turtle besturen
+---
 
 Nu je een beetje een idee hebt wat die Turtle allemaal kan, ga je zelf even spelen met de Turtle.
 

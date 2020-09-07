@@ -1,4 +1,6 @@
-# Werken met een los Python bestand met code
+---
+title: Werken met Python bestand
+---
 
 Tot nu toe heb je in de Python Interpreter gewerkt.  
 Elke regel werd direct uitgevoerd nadat je op ENTER drukte.
@@ -44,5 +46,4 @@ Ga naar de map waar je in werkt deze week (submap van je **Flex-PythonExtra** ma
 ---
 
 ## Volgende stap
-
 [Loops gebruiken](../05-loop-it/)

@@ -4,21 +4,29 @@
 @import "{{ site.theme }}";
 
 
+body {
+    background: #f7f7f7;
+    color: #333;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+a {
+    font-weight: 300;
+}
+
+
 header {
     background: #000;
 
     h1 {
         color: #fff;
         text-shadow: none;
+        font-family: "Source Sans Pro";
+        font-weight: 600;
     }
-}
-
-body {
-    background: #f7f7f7;
-    color: #333;
-    font-size: 18px;
-    line-height: 24px;
-    font-family: "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 
@@ -36,16 +44,32 @@ section {
     }
 }
 
+h2 {
+    color: #000;
+}
+
+h3 {
+    font-size: 22px;
+}
+
 h3,
 h4,
 h5,
 h6 {
     color: #FF1293;
+    font-weight: 600;
 }
 
 hr {
     background: #FF1293;
     height: 2px;
+}
+
+nav ul {
+    font-size: 16px;
+    a {
+        color: #000;
+    }
 }
 
 img {

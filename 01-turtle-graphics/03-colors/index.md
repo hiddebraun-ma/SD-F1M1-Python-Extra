@@ -1,4 +1,6 @@
-# 03. Kleuren en vormen
+---
+title: Kleuren en vormen
+---
 
 Misschien had je al het `color()` commando gezien. Dat commando gebruik je om de kleur in te stellen waarmee je tekent.
 

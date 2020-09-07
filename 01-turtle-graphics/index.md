@@ -1,4 +1,8 @@
-# 01 - Spelen met Turtle
+---
+title: "01 - Spelen met Turtle"
+---
+
+## Tekenen en animeren in Python met Turtle
 
 In het begin is programmeren lastig. Je moet eerste leren hoe je de Python taal spreekt, en dat is best even lastig omdat je nog niet zoveel ingewikkelde dingen kunt maken. Daarom is het leuk om alvast wat voorbeelden en code te krijgen waar je iets werkends mee kunt maken en om meer gevoel te krijgen bij het programmeren in de Python programmeertaal. 
 
