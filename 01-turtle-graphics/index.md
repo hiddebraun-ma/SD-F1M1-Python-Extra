@@ -4,6 +4,8 @@ title: "01 - Spelen met Turtle"
 
 ## Tekenen en animeren in Python met Turtle
 
+* Maak een nieuwe map **01-Turtle** aan voor deze opdrachten
+
 In het begin is programmeren lastig. Je moet eerste leren hoe je de Python taal spreekt, en dat is best even lastig omdat je nog niet zoveel ingewikkelde dingen kunt maken. Daarom is het leuk om alvast wat voorbeelden en code te krijgen waar je iets werkends mee kunt maken en om meer gevoel te krijgen bij het programmeren in de Python programmeertaal. 
 
 Dit gaan we doen door te spelen met *"Turtle"*. Turtle is een ingebouwde *module* van Python. Deze krijg je als je Python installeert.

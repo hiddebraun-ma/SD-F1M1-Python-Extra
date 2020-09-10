@@ -1,5 +1,7 @@
 ## 02 - Bestanden, mappen en het systeem
 
+* Maak een nieuwe map **02-Filesystem** aan voor deze opdrachten
+
 
 ### Leerdoelen van deze les
 * 
