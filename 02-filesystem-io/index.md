@@ -1,20 +1,28 @@
-## 02 - Bestanden, mappen en het systeem
-
-* Maak een nieuwe map **02-Filesystem** aan voor deze opdrachten
-
-
-### Leerdoelen van deze les
-* 
-
-
-### Hulplijnen en documentatie
-
-[Turtle Documentatie](https://docs.python.org/3/library/turtle.html) op de Python website. 
-
+---
+title: Lezen en schrijven van bestanden en mappen
 ---
 
-## Opdrachten / uitdagingen
+## Map maken voor deze les
+* Maak eerste een nieuwe map aan in je Flex-PythonExtra map
+* Noem de map: **02-filesystem-io**
+* In deze map zet je al je code en bestanden die je in deze les maakt
+* Maak een nieuwe map **02-Filesystem** aan voor deze opdrachten
 
-[Ga naar deze pagina om aan de eerste uitdaging te beginnen](opdracht_01.md)
+Je gaat leren hoe je het bestandssysteem kunt benaderen in je code.
+Dit kan met de ingebouwde *os* en *io* modules van Python en door gebruik te maken van de `open()` function. 
+
+### Leerdoelen
+* Ik kan het pad naar de map opvragen waar mijn Python script wordt uitgevoerd
+* Ik kan de working directory veranderen vanuit Python
+* Ik kan een lijst tonen van alle bestanden en mappen op een opgegeven pad op mijn computer
+* Ik kan een nieuwe map aanmaken, hernoemen en verwijderen
+* Ik kan een nieuw bestand maken, hernoemen en verwijderen
+* Ik kan een tekst bestand open met het open() commando in read-only mode
+* INHOUD SCHRIJVEN NAAR BESTAND
+* Ik kan map met meerdere submappen aanmaken door gebruik te maken van een loop
+
+
+### Aan de slag
+[Huidige pad opvragen met de OS module](01-os-module)
 
 

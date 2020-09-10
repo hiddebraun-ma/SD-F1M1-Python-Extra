@@ -6,8 +6,8 @@ De Python Extra (FLEX) lessen zijn bedoeld om je verder te verdiepen in het prog
 
 Overzicht van onderwerpen Python Extra (voorlopig)
 
-1. [Tekenen en animeren in Python met Turtle](01-turtle-graphics/index.md)
-2. Lezen en schrijven van bestanden en mappen / Bestandssysteem
+1. [Tekenen en animeren in Python met Turtle](01-turtle-graphics)
+2. [Lezen en schrijven van bestanden en mappen / Bestandssysteem](02-filesystem-io)
 3. Je eigen animated GIF’s en Meme’s maken met Pillow
 4. Tekstmanipulatie met reguliere expressies (wat zijn dat?)
 5. Datum en tijd gebruiken in Python code
