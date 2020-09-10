@@ -14,7 +14,7 @@ Open een command line / terminal in de map waar je deze week werkt en start de *
 python
 ```
 
-> Let op: Kan dus ook `py` of `python` zijn op jouw computer
+> Let op: Kan dus ook `py` of `python3` zijn op jouw computer
 
 Als het goed is zie je zoiets, en begint het versienummer met 3:
 
