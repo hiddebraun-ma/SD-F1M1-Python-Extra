@@ -144,6 +144,6 @@ Of Google naar: *python turtle example code*
 
 ----
 
-## Laatste stap
+## Je werk op Github zetten
 
 [Je werk *committen* en *pushen* naar Github](../../00-setup/commit_push.html)

@@ -3,7 +3,7 @@ title: Een nieuwe map maken
 ---
 
 Je gaat nu een nieuwe map aanmaken met Python. 
-Voeg deze code toe aan het script wat nu hebt en voer het script uit (F5):
+Voeg deze code toe aan je script en voer het script uit (F5):
 
 ```python
 # Een nieuwe map maken met os.mkdir()
@@ -14,16 +14,20 @@ os.mkdir("Een nieuwe map")
 
 ![](new-folder.png)
 
-> Probeer nu zelf een paar mappen aan te maken met de `os.mkdir()` functie.
+> Probeer nu zelf nog een paar mappen aan te maken met de `os.mkdir()` functie.
 
-Verwijder daarna mappen weer (gewoon zoals je dat normaal ook doet)
+Verwijder daarna de mappen weer.
 
 ---
 
-## De gebruiker vragen om een naam voor de map
+## De gebruiker vragen om de naam voor de map
 - Je kunt de `input()` functie gebruiken om een naam te vragen aan de gebruiker van het programma.
-- Dit sla je op in de variabele `mapnaam`. De variabele gebruik je in de `os.mkdir()` functie.
-- Ook check je eerst met een `if` of er wel iets is ingevoerd.
+- Deze input sla je op in een variabele met de naam: `mapnaam`. 
+- Ook tel je het aantal letters in `mapnaam` met de `len()` (lengte) functie van Python.
+- Die lengte sla je op in de variabele `lengte_mapnaam`.
+- Je controleert met een `if` statement of `lengte_mapnaam` groter dan 0 is
+- Als dat zo is wordt de `mapnaam` aan de `os.mkdir()` functie gegeven (in `mapnaam` is de naam van de map opgeslagen).
+- Anders (else) wordt de tekst: `Je hebt geen naam ingevoerd` getoond (en stopt het script)
 
 Voeg deze code toe aan je script:
 
@@ -31,8 +35,9 @@ Voeg deze code toe aan je script:
 # Gebruiker om de naam van de map vragen
 mapnaam = input("Welke naam wil je voor de map? ")
 
-# Als de lengte van de mapnaam > 0 is dan maken we de map
-if len(mapnaam) > 0:
+# Als de lengte van mapnaam > 0 is dan maken we de map
+lengte_mapnaam = len(mapnaam)
+if lengte_mapnaam > 0:
     os.mkdir(mapnaam)
     print("De map " + mapnaam + " is gemaakt.")
 else:
@@ -41,48 +46,53 @@ else:
 
 > Voer het script uit. Wat gebeurt er? Maak een screenshot van de code en de bestanden.
 
+Bij mij komt er deze map bij, als ik "Mappie" invoer:
+
+![Mappie](mappie.png)
+
 ---
 
 ## Het script beter laten werken
-Als je niets invult stop het script nu. Om dat te voorkomen kun je een `while` loop gebruiken.
-Deze herhaalt code zo lang een bepaalde check (condition) *wel* of juist *niet* waar is.
+-  Als je nu niets invult, stopt het script. Dat is niet zo mooi.
+- De `while` loop herhaalt de code die er onder staat (en is ingesprongen) tot een bepaalde check (condition) *wel* of juist *niet* waar is.
 
-Je wilt dat het programma blijft vragen om een mapnaam totdat de gebruiker iets invult:
+> Je wilt dat het programma blijft vragen om een mapnaam totdat de gebruiker iets invult:
+
+*Kijk of je regel voor regel kunt volgen wat de code doet:*
 
 ```python
-# Zet mapnaam naar een lege tekst
+# Zet de variabele mapnaam eerst naar een lege tekst
 mapnaam = ""
 
-# Zolang de mapnaam leeg is, blijft het script vragen om de mapnaam
-while len(mapnaam) === 0:
+# Zet de variabele lengte_mapnaam naar 0
+lengte_mapnaam = 0
+
+# Zolang de lengte_mapnaam gelijk is aan 0, blijft het script vragen om de mapnaam
+while lengte_mapnaam == 0:
+    # Vraag om mapnaam en sla deze op in de variabele mapnaam
     mapnaam = input("Welke naam wil je voor de map? ")
-    
-    # Als de lengte van de mapnaam > 0 is dan maken we de map
-    if len(mapnaam) > 0:
+
+    # Sla de lengte van de mapnaam op in de variabele lengte_mapnaam
+    lengte_mapnaam = len(mapnaam)
+
+    # Als lengte_mapnaam groter dan 0 is dan maken we de map aan
+    if lengte_mapnaam > 0:
         os.mkdir(mapnaam)
-        print("De map " + mapnaam + " is gemaakt.")
     else:
+        # En anders melden we dat er niets is ingevuld
         print("Je hebt geen naam ingevoerd")
 
-    # Als hier de mapnaam nog leeg is, wordt de while loop opnieuw uitgevoerd
-
 # ... en anders gaat de code hier verder
+print("De map " + mapnaam + " is gemaakt.")
 ```
 
-## De nieuwe map instellen als de werkmap
-In de nieuwe map gaan we nu spelen met code. We willen dus dat het script de nieuwe map als *working directory* instelt.
-Dit kan met de `os.chdir()` functie.
+> Verander je script of maak een nieuwe Python file en probeer de code uit. 
+> Maak een screenshot van de werkende uitvoer en sla deze op in je map.
 
-Voeg toe onderaan het script (dus waar de map als het goed is is aangemaakt)
+![](while_mapnaam.png)
 
-```python
-# Verander de werkmap naar de nieuwe map
-os.chdir(mapnaam))
-print("De nieuwe working directory is nu: " + os.getcwd())
-```
+---
 
-Dit betekent dat alle filesystem commando's die je nu doet worden uitgevoerd van uit die map.
 
-> Test het maar eens: maak nog een nieuwe map aan.
-> Controleer of de map op de goede plek is aangemaakt. 
-  
+## Volgende stap
+ [Een tekstbestand lezen](../03-read-file)

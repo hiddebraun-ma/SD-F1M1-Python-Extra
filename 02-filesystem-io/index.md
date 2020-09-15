@@ -5,7 +5,7 @@ title: Lezen en schrijven van bestanden en mappen
 ## Map maken voor deze les
 * Maak eerste een nieuwe map aan **in je Flex-PythonExtra map**
 * Noem de map: **02-FilesFolders**
-* In deze map zet je al je code en bestanden die je in deze les maakt
+* In deze map zet je alle bestanden en code die je in deze les maakt.
 
 ![](new-folder.png)
 
@@ -17,22 +17,23 @@ Als het goed is, heb je na het doen van de opdrachten en oefeningen de volgende 
 
 ### Leerdoelen
 * Ik kan het pad naar de map opvragen waar mijn Python script wordt uitgevoerd.
-* Ik kan de *werkmap* (working directory) veranderen naar andere map (directory) in Python.
+* Ik kan een nieuw tekstbestand maken en hier een eigen tekst in zetten.
+* Ik kan een tekst bestand openen in read-only (alleen-lezen) mode, met de open() functie. 
+* Ik kan bestanden en mappen hernoemen en verwijderen met Python.
+* Ik kan met een for loop in 1x meerdere mappen maken met Python code.
 * Ik kan de namen van alle bestanden en mappen opvragen en tonen die in opgegeven pad op mijn computer staan.
-* Ik kan een tekst bestand openen in read-only (alleen-lezen) mode, met de open() functie.
-* Ik kan een nieuw bestand maken, hernoemen en verwijderen met Python.
-* Ik kan tekst naar een bestand schrijven. 
-* Ik kan in een loop in 1x een gelaagde mappen structuur maken met code.
 
 ---
 
 Met deze kennis kun je bijvoorbeeld:
-- Lezen en schrijven van highscores naar een bestand.
-- Nieuwe bestanden maken, kopiëren, hernoemen, verwijderen. 
+- Lezen en schrijven van highscores naar een (tekst)bestand.
+- Bestanden maken, hernoemen, verwijderen. 
+- Een simpele database / opslagstructuur maken voor gegevens.
 - Geautomatiseerd een mappenstructuur maken met code.
 
+---
 
-### Aan de slag
+## Aan de slag
 [Huidige pad opvragen met de OS module](01-os-module)
 
 

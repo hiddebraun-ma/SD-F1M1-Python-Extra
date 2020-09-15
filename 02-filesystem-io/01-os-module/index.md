@@ -45,9 +45,11 @@ Weet je nog hoe je het script vanaf de command line kunt uitvoeren? Probeer dat 
 
 ---
 
-> Wat je ziet is een **absoluut path** (pad). Een absoluut path toont altijd het **volledige path** naar iets (map, bestand).
- 
+> Wat je ziet is een **absoluut path** (pad). Een absoluut path toont altijd het **volledige path** op je computer naar een bestand of map.
+
 > Een **relatief path** is juist afhankelijk van de huidige *working directory* (werkmap)
+
+
 
 ---
 
