@@ -5,7 +5,7 @@ title: De os module gebruiken
 > Maak dus alle Python bestanden in de map die je net hebt aangemaakt!
 
 ## Maak een nieuw bestand
-* Open de IDLE editor en maak een nieuw Python bestand.
+* Open de IDLE editor en maak een nieuw Python bestand via *File > New file*
 * Sla het bestand op in de werkmap **02-FilesFolders** met de naam: `huidige_map.py`
 
 ![](idle_save_run.gif)
