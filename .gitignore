@@ -1,3 +1,6 @@
 Scrapbook
 _site
 .vscode
+
+# Strange dot file son extern HD being created!
+._*
