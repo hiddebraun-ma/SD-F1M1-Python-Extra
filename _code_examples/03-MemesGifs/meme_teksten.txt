@@ -1,0 +1,3 @@
+Running First Python script\nNo errors!
+Opened window to let fly out\nIt flew out!
+Late to school\nTeacher was even later!

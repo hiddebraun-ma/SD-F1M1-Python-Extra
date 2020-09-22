@@ -52,6 +52,12 @@ print("De afbeelding is " + str(breedte) + " pixels breed en " + str(hoogte) + "
 print(afbeelding.format, afbeelding.size, afbeelding.mode)
 ```
 
+> Voer het Python script elke keer uit met F5 of via de menu optie Run > Module van IDLE
+
+![Run module](run-module.png)
+
+---
+
 > Wat heeft jouw script als uitvoer? maak een screengrab van de uitvoer van het script. Hoeveel pixels breed en hoog is jouw afbeelding? 
 
 Meer weten over wat je allemaal kunt doen met de `Image` module van Pillow? [Kijk of je met de documentatie en voorbeelden](https://pillow.readthedocs.io/en/stable/reference/Image.html#examples){:target="_blank"} een stukje code kunt schrijven een bewerking doet op de afbeelding.
@@ -75,7 +81,7 @@ Het script wordt dan als volgt:
 ```python
 from PIL import Image
 
-# Afbeelding openen en oplsaan in de variabele met de naam: afbeelding
+# Afbeelding openen en opslaan in de variabele met de naam: afbeelding
 afbeelding = Image.open("sunset.jpg")
 
 # De afbeelding tonen in de standaard image viewer van jouw systeem

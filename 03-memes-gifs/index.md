@@ -15,10 +15,7 @@ title: Memes maken met de Pillow library
 * Ik kan de Pillow module importeren in een eigen Python script.
 * Ik kan een ingeladen afbeelding tonen in de standaard image viewer van het systeem.
 * Ik kan een JPG, PNG of GIF openen, vergroten of verkleinen en opslaan onder een andere naam.
-* Ik kan een tekst op een achtergrond afbeelding plaatsen en de nieuwe afbeelding apart opslaan.
-* Ik kan 10 memes maken door een `for` loop, een tekstbestand en een achtergrond afbeelding te combineren.
-* Ik kan van meerdere afbeelding een animated GIF maken met Python code.
-
+* Ik kan een tekst op een achtergrond afbeelding plaatsen en deze nieuwe meme afbeelding apart opslaan.
 
 ### Hulplijnen en documentatie
 Wil je eerst kijken wat je allemaal kunt doen, lees dan de documentatie even snel door:
