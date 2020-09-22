@@ -18,7 +18,7 @@ title: Memes maken met de Pillow library
 * Ik kan een tekst op een achtergrond afbeelding plaatsen en deze nieuwe meme afbeelding apart opslaan.
 
 ### Hulplijnen en documentatie
-Wil je eerst kijken wat je allemaal kunt doen, lees dan de documentatie even snel door:
+Wil je eerst kijken wat je allemaal kunt doen mt Pillow? Lees dan de documentatie eens door:
 [Pillow Documentatie](https://pillow.readthedocs.io/en/stable/handbook/tutorial.html)
 
 ---

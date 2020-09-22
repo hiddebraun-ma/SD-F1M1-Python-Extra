@@ -6,18 +6,18 @@ Om afbeeldingen te kunnen inlezen, bewerken en maken met Python hebben we de **P
 
 Dit is een Python *package* (een soort Python plugin) die niet standaard in Python zit, maar die je kunt installeren met [pip](https://realpython.com/what-is-pip/){:target=_"blank"}. Pip is tegelijk met Python geïnstalleerd. 
 
-> Een package is een verzameling losse modules. Een module is één Python file. De Pillow package bestaat dus uit meerdere modules (Python files) die samen nodig zijn om alle mogelijkheden van Pillow mogelijk te maken.
+> Een package is een verzameling losse modules. Een module is één Python file. De Pillow package bestaat dus uit meerdere modules (Python files) die samen de Pillow package vormen. 
 
-Met het programma `pip` of `pip3` kun je Python (open-source) code van andere developers gebruiken, die dat online hebben gezet. Dar scheelt werk. Er is vaak al een andere developer die een package heeft gemaakt, die je zo kunt gebruiken.
+Met het programma `pip` of `pip3` kun je Python (open-source) code van andere developers gebruiken, die dat online hebben gezet. Dat scheelt werk. Er is vaak al ergens op de wereld een developer die een package heeft gemaakt die jij net nodig hebt.
 
 ---
 
 ## Kijken of PIP werkt
-Eerst kijken we of pip goed werkt en welke versie je hebt.
+Eerst kijken we of `pip` goed werkt en welke versie je hebt.
 
 * Open een command-line venster (of Terminal op de Mac). 
 * Op Windows: typ het volgende commando: `pip --version` 
-* Op een Mac: vervang overal `pip` voor `pip3` als je een pip commando moet uitvoeren
+* Op een Mac: vervang overal `pip` voor `pip3` als je een pip commando moet uitvoeren.
 
 Als het goed is, zie je zoiets:
 
@@ -46,7 +46,7 @@ Je kunt voor elk (sub)commando een hulp tekst opvragen.
 
 Dat doe je met: `pip help <subcommando>`
 
-> Vraag de helptekst op voor het subcommando `search`:
+> Vraag de helptekst op voor het (sub)commando `search`:
 
 ```bash
 pip help search
@@ -56,7 +56,7 @@ pip help search
 
 ![](pip-help-search.png)
 
-Hier staat dat het `pip search` commando "Zoekt naar PyPI packages waarvan de naam of samenvatting `<query>` bevat".
+Hier staat (vertaald naar het Nederlands) dat het `pip search` commando "Zoekt naar PyPI packages waarvan de naam of samenvatting `<query>` bevat".
 De pijl geeft aan waar in het `pip` commando de `<query>` moet komen. 
 
 Het commando wat je moet gaan uitvoeren om naar de *Pillow* package te zoeken is dus... (weet je het?)

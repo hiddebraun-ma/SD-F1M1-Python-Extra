@@ -111,8 +111,8 @@ De meeste memes hebben een witte tekst met een kleine donkere schaduw, en niet e
 
 > Hoe zou je een witte tekst met een donkere tekst er achter kunnen maken? 
 
-De truc is om gewoon **nog* een keer dezelfde tekst op de afbeelding te schrijven, maar dan in het wit.
-De tekst zet je dan gewoon een paar pixels naar links en naar boven.
+De truc is om gewoon **nog een keer dezelfde tekst op de afbeelding te schrijven**, maar dan in het wit.
+De witte tekst zet je dan een paar pixels naar links en naar boven.
 
 Zet onder de regel waar je de tekst op de afbeelding zet de volgende code:
 
@@ -142,17 +142,18 @@ Lukt het je om wat hieronder staat te maken in Python?
 * Een tekst bestand te maken met per regel een tekst.
 * Dit tekst bestand regel voor regel te lezen.
 * Voor elke regel tekst, de tekst op de achtergrond afbeelding te zetten.
-* En dus voor elke regel een apart plaatje te maken?
+* En dus, voor elke regel een apart Meme plaatje te maken 
+* ... en deze op te slaan onder een eigen bestandsnaam?
 
-> In een volgende les zal ik laten zien hoe je dit kan doen
+> In een volgende les zal ik laten zien hoe je dit kunt doen.
 
 ---
 
 ## Klaar! Je werk op Github zetten
-Zorg er voor dat je alles wat je hebt gemaakt commit en naar Github pusht zodat duidelijk is wat je hebt gedaan en hoe ver je bent gekomen. Hier lees je hoe je dat doet.
+Zorg er voor dat je alles wat je hebt gemaakt commit en naar Github pusht, zodat duidelijk is wat je hebt gedaan en hoe ver je bent gekomen. Hier lees je hoe je dat doet.
 [Je werk *committen* en *pushen* naar Github](../../00-setup/commit_push.html)
 
-> Dit was wel een flink opdracht en best ingewikkeld. Dus neem je tijd om er aan te werken.
+> Dit was wel een flinke opdracht en best ingewikkeld. Dus neem je tijd om er aan te werken.
  
 > Belangrijkste is dat je echt de tijd neemt om alle stappen te doen. Het hoeft niet meteen af, maar liefst wel binnen twee weken.
 

@@ -2,20 +2,24 @@
 title: Aan de slag met Pillow
 ---
 
-Gefeliciteerd, Pillow is geïnstalleerd. Nu kun je Pillow gebruiken door deze package te importeren.
+Gefeliciteerd, Pillow is geïnstalleerd. Nu kun je Pillow (PIL) gebruiken en importeren in je scripts.
 
-We gaan een paar korte code oefeningen doen om te kijken of Pillow goed wordt ingeladen en werkt.
+We gaan een paar korte code oefeningen doen om te kijken of Pillow (PIL) goed wordt ingeladen en werkt.
+
+---
 
 ## Pillow modules
 
 Pillow bestaat uit allerlei losse *modules*. Elke module kan iets speciaals met afbeeldingen of biedt speciale functionaliteit.
-In Python zelf wordt de naam **PIL** gebruikt voor dit package.
+In Python zelf wordt de naam **PIL** gebruikt voor deze package.
 
 * Met de **PIL.Image** module kun je afbeeldingen lezen en schrijven en simpele bewerkingen doen (schalen, croppen, metadata opvragen)
 * Met de **PIL.ImageGrab** module is er om foto's te maken van je scherm.
 * Met de **PIL.ImageDraw** module kun je simpele 2D vormen tekenen op een afbeelding (lijnen, cirkels)
 * Met de **PIL.ImageFont** module kun je een lettertype inladen en daarna gebruiken om teksten op een afbeelding te zetten
 * ... en zo heb je er nog veel meer. [Hier kun je zien welke dat zijn](https://pillow.readthedocs.io/en/stable/reference/index.html){:target="_blank"}
+
+---
 
 ## Een afbeelding laden met Pillow
 Je gaat de `PIL.Image` module inladen om een afbeelding te tonen.
@@ -52,7 +56,7 @@ print("De afbeelding is " + str(breedte) + " pixels breed en " + str(hoogte) + "
 print(afbeelding.format, afbeelding.size, afbeelding.mode)
 ```
 
-> Voer het Python script elke keer uit met F5 of via de menu optie Run > Module van IDLE
+> Voer het Python script elke keer uit met F5 of via de menu optie *Run > Module* (F5) van IDLE
 
 ![Run module](run-module.png)
 
