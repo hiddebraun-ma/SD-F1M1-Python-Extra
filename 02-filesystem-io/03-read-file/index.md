@@ -8,7 +8,6 @@ Je weet nu hoe je een Python bestand kunt maken en bewaren met de IDLE editor.
 *Zorg dat je in de map van deze week blijft werken, zodat alles op 1 plek staat*
 
 ## Met Python code een tekstbestand schrijven
-Je gaat nu met Python code een nieuw tekstbestand maken met inhoud.
 
 - Maak in IDLE een nieuwe Python script met de naam: `maak_tekstfile.py`
 - Importeer helemaal boven in je script de `io` module (hint: bekijk de vorige scripts)
