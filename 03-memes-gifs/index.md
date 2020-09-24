@@ -11,14 +11,14 @@ title: Memes maken met de Pillow library
 
 
 ### Leerdoelen van deze les
-* Ik kan Pillow module (Python Imaging Library) installeren met `pip` de *package manager* van Python.
+* Ik kan de Pillow module (Python Imaging Library) installeren met `pip` de *package manager* van Python.
 * Ik kan de Pillow module importeren in een eigen Python script.
-* Ik kan een ingeladen afbeelding tonen in de standaard image viewer van het systeem.
+* Ik kan een ingeladen afbeelding tonen in de standaard image viewer van je systeem.
 * Ik kan een JPG, PNG of GIF openen, vergroten of verkleinen en opslaan onder een andere naam.
 * Ik kan een tekst op een achtergrond afbeelding plaatsen en deze nieuwe meme afbeelding apart opslaan.
 
 ### Hulplijnen en documentatie
-Wil je eerst kijken wat je allemaal kunt doen mt Pillow? Lees dan de documentatie eens door:
+Wil je eerst kijken wat je allemaal kunt doen met Pillow? Lees dan de documentatie eens door:
 [Pillow Documentatie](https://pillow.readthedocs.io/en/stable/handbook/tutorial.html)
 
 ---
