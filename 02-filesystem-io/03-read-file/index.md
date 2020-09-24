@@ -20,8 +20,7 @@ Je kunt bestanden in een bepaalde *mode* openen:
 - t = text mode (voor tekstbestanden, dit is standaard)
 - b = binary mode (binaire mode)
 
-Je gaat **met code** een bestand maken: `klasgenoten.txt`
-Voeg aan je Python script dit toe:
+Je gaat **met code** een tekst bestand maken, voeg deze code aan je Python script toe:
 
 ```python
 # Zo open je een bestand om naar te schrijven 
