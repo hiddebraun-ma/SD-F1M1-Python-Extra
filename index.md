@@ -9,7 +9,7 @@ Overzicht van onderwerpen Python Extra (voorlopig)
 1. [Tekenen en animeren in Python met Turtle](01-turtle-graphics)
 2. [Lezen en schrijven van bestanden en mappen / Bestandssysteem](02-filesystem-io)
 3. [Afbeeldingen bewerken en Meme’s maken met Pillow](03-memes-gifs)
-4. Tekstmanipulatie met reguliere expressies (wat zijn dat?)
+4. [Tekstmanipulatie en reguliere expressies (wat zijn dat?)](04-text-manipulation)
 5. Datum en tijd gebruiken in Python code
 6. Beter worden met lists?
 7. Een e-mail sturen met Python
