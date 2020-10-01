@@ -104,7 +104,7 @@ Net voor de `print()` van de `tekst_regel` haal je de **newline** er af met de `
 
 ```python
 # De newline er af halen
-tekst_regel = tekstregel.strip()
+tekst_regel = tekst_regel.strip()
 
 # De regel op het scherm zetten:
 print(tekst_regel)
