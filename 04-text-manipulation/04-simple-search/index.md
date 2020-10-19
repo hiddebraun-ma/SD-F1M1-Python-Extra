@@ -89,7 +89,7 @@ python zoek_emails.py tekstbestand.txt
 
 > Nu is het script herbruikbaar voor gebruik met andere tekstbestanden. 
 
-> Test of het werkt met andere tesktbestanden met email adressen. 
+> Test of het werkt met andere tekst bestanden met email adressen. 
 
 > Maak er anders zelf een paar om te testen.
 
