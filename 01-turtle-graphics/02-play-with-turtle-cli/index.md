@@ -81,6 +81,7 @@ Kun je al van een aantal commando's bedenken wat er gebeurt als je dat commando 
 
 ## Hulp over een commando opvragen
 Er zijn een paar om uit te vinden hoe een bepaald commando werkt:
+
 1. De documentatie lezen op [https://docs.python.org/3.8/library/turtle](https://docs.python.org/3.8/library/turtle){:target="_blank"}
 2. De ingebouwde `help()` functie gebruiken
 

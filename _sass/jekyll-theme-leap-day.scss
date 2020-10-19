@@ -47,7 +47,7 @@ h3 {
 
 a {
   color:#000;
-  text-decoration: none;
+  text-decoration: underline;
 
   &:hover {
     text-decoration: underline;
@@ -67,8 +67,7 @@ ul{
 }
 
 strong {
-  font-weight: bold;
-  color: #333;
+  font-weight: 400;
 }
 
 .wrapper {
@@ -317,19 +316,6 @@ nav {
       // padding-right:17px;
       // position:relative;
       // right:-12px;
-
-      &.tag-h1 {
-        font-size: 1.2em;
-
-        a {
-          font-weight: bold;
-          color: #333;
-        }
-
-        + .tag-h2 {
-
-        }
-      }
 
       &.tag-h2 {
 
