@@ -49,8 +49,7 @@ Wil je er meer over weten en je er verder in verdiepen, kijk dan eens op deze we
 - Ik kan de basis meta karakters van regular expressions toepassen om een patroon te vinden dat gematcht moet worden.
 - Ik kan de *re* (regular expression) module van Python importeren in mijn script
 - Ik kan controleren of de input() van een gebruiker voldoet aan een bepaald patroon (postcode, telefoonnummer)
-- Ik kan alle email adressen uit een tekstbestand halen en op het scherm tonen met een regular expression.
-- Ik kan met een regular expression alle tekst smiley's :-) vervangen met een emoticon: &#128578; 
+- Ik kan alle email adressen uit een tekstbestand halen en op het scherm tonen met een regular expression. 
 
 ---
 
