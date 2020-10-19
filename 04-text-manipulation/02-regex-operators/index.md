@@ -2,8 +2,9 @@
 title: Verder oefenen met operators
 ---
 
-Je gaat nog even verder oefenen met een paar andere operators die je veel gebruikt in regular expressions.
-Daarna ga je deze kennis toepassen in Python code.
+Je gaat nog even verder oefenen met een paar andere operators die je veel gebruikt in regular expressions. Daarna ga je deze kennis toepassen in Python code.
+
+---
 
 ## Een letter of patroon wel of niet toestaan, en hoe vaak?
 Het is handig om aan te kunnen geven of een karakter of reeks karakters **mag** of juist **moet** voorkomen om een bepaalde plek in de tekst.
@@ -16,14 +17,14 @@ Hiermee geef je aan of, en hoe vaak het patroon of de letter(s) die er **VOOR* s
 * `?` = Mag 0 of maximaal 1 keer voorkomen.
 * `|` = Wat links OF wat rechts van de `|` staat mag voorkomen.
 
-| Regular expression  | Test string                | Matches                                                    |
-| ------------------- | -------------------------- | ---------------------------------------------------------- |
-| a*                  | Banaan                     | B**a**n**aa**n                                             |
-| ma+n                | man                        | **man**                                                    |
-| ma+n                | mn                         | Geen match. De "a" moet minimaal 1x voorkomen na de "m")   |
-| ma?n                | mn                         | **mn**  (want de a mag 0x of 1x voorkomen)                 |
-| ma?n                | man                        | **man** (want de a mag 0x of 1x voorkomen)                 |
-| r|s                 | mars                       | ma**rs** (want de r OF s)                                 |
+| Regular expression  | Test string                | Matches                                                     |
+| ------------------- | -------------------------- | ------------------------------------------------------------|
+| a*                  | Banaan                     | B**a**n**aa**n                                              |
+| ma+n                | man                        | **man**                                                     |
+| ma+n                | mn                         | **Geen match**. De "a" moet minimaal 1x voorkomen na de "m" |
+| ma?n                | mn                         | **mn**  (want de a mag 0x of 1x voorkomen)                  |
+| ma?n                | man                        | **man** (want de a mag 0x of 1x voorkomen)                  |
+| r\|s                 | mars                       | ma**rs** (want de r OF s)                                   |
 
 ---
 

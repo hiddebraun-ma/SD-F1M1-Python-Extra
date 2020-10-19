@@ -9,26 +9,28 @@ title: Tekst en regular expressions
 
 ![](new-folder.png)
 
+---
+
 ### Regular expressions? Wat zijn dat?
 Met *regular expressions* kun je patronen vinden binnen een tekst.  
-Een regular expression beschrijft onder andere:
+Met een *regular expression* kun je aangeven:
 - Naar welk patroon je zoekt
-- Op welke plek in de tekst het patroon mag of moet staan.
+- Op welke plek in de tekst dat patroon mag of moet staan.
 - Hoe vaak een patroon wel of niet mag voorkomen in de tekst.
 - In welke volgorde de letters/cijfers van het patroon moeten of mogen staan
 - ... en nog meer
 
-> Regular Expressions worden in bijna alle programmeertalen ondersteund
+> Regular Expressions worden in bijna alle programmeertalen ondersteund.
 
 ---
 
-### Wanneer heb je dit nodig?
+### Wanneer gebruik je regular expressions?
 Je kunt regular expressions voor veel verschillende toepassingen gebruiken:
 
-- Denk aan search engines die zoeken naar een specifieke tekst.
-- Het controleren of een postcode, telefoonnummer of e-mail adres juist is ingevoerd.
-- Controleren of een wachtwoord sterk genoeg is.
-- Scheldwoorden in een tekst vervangen met bijvoorbeeld *%$!%@$$@!* of een &#128544;
+- Denk aan search engines die zoeken naar de opgegeven zoekterm in een lange tekst.
+- Het controleren of een postcode, telefoonnummer of e-mail adres correct is ingevoerd.
+- Een wachtwoord controleren op sterkte en veiligheid.
+- Scheldwoorden in een tekst of chat vervangen met bijvoorbeeld *%$!%@$$@!* of een &#128544;
 - ... en nog veel meer.
 
 > In deze flex les leer je de basis van regular expressions. 
@@ -40,13 +42,15 @@ Wil je er meer over weten en je er verder in verdiepen, kijk dan eens op deze we
 - [Real Python: Regular Expressions](https://realpython.com/regex-python/){:target="blank"}
 - [Medium: Regular expressions cheatsheet](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285){:target="blank"}
 
-### Leerdoelen van deze les/onderwerp
+---
+
+### Leerdoelen 
 - Ik kan de speciale regular expression operators `^`, `$`, `+`, `*`, `|` en `?` gebruik om een patroon in een tekst te vinden.
-- Ik kan de regular expression module van Python importeren in mijn script
-- Ik kan alleen de getallen in een tekst "matchen" met de \d operator.
+- Ik kan de basis meta karakters van regular expressions toepassen om een patroon te vinden dat gematcht moet worden.
+- Ik kan de *re* (regular expression) module van Python importeren in mijn script
 - Ik kan controleren of de input() van een gebruiker voldoet aan een bepaald patroon (postcode, telefoonnummer)
 - Ik kan alle email adressen uit een tekstbestand halen en op het scherm tonen met een regular expression.
-- Ik kan met een regular expression tekst smiley's vervangen met de &#128578; emoticon emoticon.
+- Ik kan met een regular expression alle tekst smiley's :-) vervangen met een emoticon: &#128578; 
 
 ---
 

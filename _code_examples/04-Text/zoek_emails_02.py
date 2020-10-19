@@ -24,3 +24,12 @@ with open("tekstmetemails.txt", "r") as bestand:
 
 
 print(emails)
+
+
+# Sorteren
+emails.sort()
+
+with open("alle_emails.txt", "w") as bestand:
+
+    for email in emails:
+        bestand.write(email+ "\n")

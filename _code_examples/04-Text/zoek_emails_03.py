@@ -1,8 +1,15 @@
-import re
+import re, sys
+
+
+if len(sys.argv) < 2:
+    print("Geen tekstbestand opgegeven")
+    sys.exit()
+
+tekstfile = sys.argv[1]
 
 emails = []
 
-with open("tekstmetemails.txt", "r") as bestand:
+with open(tekstfile, "r") as bestand:
 
     regel = bestand.readline()
     print(regel)
@@ -24,3 +31,12 @@ with open("tekstmetemails.txt", "r") as bestand:
 
 
 print(emails)
+
+
+# Sorteren
+emails.sort()
+
+with open("alle_emails.txt", "w") as bestand:
+
+    for email in emails:
+        bestand.write(email+ "\n")
