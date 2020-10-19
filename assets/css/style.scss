@@ -47,8 +47,14 @@ section {
   }
 
   ol {
-    padding: 10px 30px;
-    background-color: #ceefff;
+    padding: 0 0 0 20px;
+
+    li {
+      margin-bottom: 5px;
+      padding: 5px 10px;
+      font-weight: 400;
+      font-size: 18px;
+    }
   }
 }
 
@@ -69,6 +75,7 @@ hr {
 
 nav {
   margin-left: -680px;
+
   ul {
     font-size: 16px;
 
@@ -82,7 +89,7 @@ a {
   &.next {
     background: #4caf50;
     padding: 10px 20px;
-    color:#fff;
+    color: #fff;
     display: inline-block;
     margin-top: 20px;
     font-weight: 700;

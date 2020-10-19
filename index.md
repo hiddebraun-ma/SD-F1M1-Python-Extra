@@ -10,11 +10,6 @@ Overzicht van onderwerpen Python Extra (voorlopig)
 2. [Lezen en schrijven van bestanden en mappen / Bestandssysteem](02-filesystem-io)
 3. [Afbeeldingen bewerken en Meme’s maken met Pillow](03-memes-gifs)
 4. [Tekstmanipulatie en reguliere expressies (wat zijn dat?)](04-text-manipulation)
-5. Datum en tijd gebruiken in Python code
-6. Beter worden met lists?
-7. Een e-mail sturen met Python
-8. Arcade game engine
-9. Code van andere developers gebruiken
 
 ![](meme.jpg)
 
@@ -39,14 +34,24 @@ Kom je er niet uit vraag dan hulp aan je buddy uit het 2e of 3e jaar of vraag ee
 
 ## Werkwijze en beoordeling
 
-Om de module **Hello You** voldoende af te sluiten is actieve deelname en aanwezigheid vereist. Omdat deze lessen online worden gegeven is het van belang dat je op tijd aanwezig bent en actief meedoet en vragen stelt als je er niet uit komt.
-
 > Al je werk dat je maakt voor Python Extra commit en push je naar je Github repository
 
-**In de eerste les maak je deze Github repository aan en zet je daar ook de eerste opdrachten in** (en later ook de andere opdrachten en oefeningen)
+> In de eerste les maak je deze Github repository aan en zet je daar ook de eerste opdrachten in (en later ook de andere opdrachten en oefeningen)
+
+- Om de module **Hello You** voldoende af te sluiten is actieve deelname en aanwezigheid vereist. 
+- Je levert tenminste 3 van de 4 onderwerpen en opdrachten in via je Github repository.
+- Je laat zien dat je er aan hebt gewerkt door de code die je hebt geschreven.
+- Je maakt zoveel mogelijk screengrabs waar dat handig is.
+- Je Github repository is duidelijk opgebouwd, met per onderwerp een folder waar je in werkt.
+- Je maakt regelmatig commits met duidelijke commit messages.
+- Je bent op tijd aanwezig en doet actief mee in en aan de les.
+- Je helpt anderen zo goed mogelijk.
+- Je stelt vragen als je er niet uit komt, of vraagt pm hulp aan mede-studenten, buddies of docenten.
+
+**Veel plezier!**
 
 ---
 
-## Volgende stap
+## Aan de slag
 
 [Map en Github repository maken voor Python Extra](00-setup/index.md){:class="next"}
