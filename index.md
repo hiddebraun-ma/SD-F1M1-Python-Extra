@@ -49,4 +49,4 @@ Om de module **Hello You** voldoende af te sluiten is actieve deelname en aanwez
 
 ## Volgende stap
 
-[Map en Github repository maken voor Python Extra](00-setup/index.md)
+[Map en Github repository maken voor Python Extra](00-setup/index.md){:class="next"}

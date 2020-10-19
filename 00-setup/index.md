@@ -117,4 +117,4 @@ Als dit allemaal gelukt is, lever dan de Github URL via deze link in:
 
 ## Eindelijk... aan de slag
 
-[Aan de slag met Turtle graphics](../01-turtle-graphics/index.md)
+[Aan de slag met Turtle graphics](../01-turtle-graphics/index.md){:class="next"}

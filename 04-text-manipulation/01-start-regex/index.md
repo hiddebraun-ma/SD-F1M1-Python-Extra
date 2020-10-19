@@ -51,8 +51,7 @@ Zet bij de "REGEX FLAGS" deze opties aanL: global en multiline:
 ---
 
 ## Volgende stap
-In de volgende pagina's staan de voorbeelden waarmee je gaat oefenen.**
-
-[Oefenen met losse letters](practice_01)
+In de volgende pagina's staan de voorbeelden waarmee je gaat oefenen.  
+[Oefenen met losse letters](practice_01){:class="next"}
 
 

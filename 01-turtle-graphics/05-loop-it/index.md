@@ -146,7 +146,7 @@ Of Google naar: *python turtle example code*
 
 ## Je werk op Github zetten
 
-[Je werk *committen* en *pushen* naar Github](../../00-setup/commit_push.html)
+[Je werk *committen* en *pushen* naar Github](../../00-setup/commit_push.html){:class="next"}
 
 ---
 

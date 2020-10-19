@@ -102,6 +102,6 @@ Sla het aangepaste script op als `input_check3.py`
 ---
 
 ## Volgende stap
-[Simpel zoek script](../04-simple-search)
+[Simpel zoek script](../04-simple-search){:class="next"}
 
 

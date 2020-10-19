@@ -54,4 +54,4 @@ Weet je nog hoe je het script vanaf de command line kunt uitvoeren? Probeer dat 
 ---
 
 ## Volgende stap
-[Mappen maken](../02-folders/)
+[Mappen maken](../02-folders/){:class="next"}

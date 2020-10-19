@@ -2,7 +2,7 @@
 title: Zelf de Turtle besturen
 ---
 
-Nu je een beetje een idee hebt wat die Turtle allemaal kan, ga je zelf even spelen met de Turtle.
+Nu je een beetje een idee hebt wat die Turtle allemaal kan, ga je zelf spelen met de Turtle.
 
 ---
 
@@ -204,4 +204,4 @@ Je kunt ook [online hulp](https://docs.python.org/3/library/turtle.html#turtle-m
 ---
 
 ## Volgende stap
-[Kleuren en vormen](../03-colors)
+[Kleuren en vormen](../03-colors){:class="next"}

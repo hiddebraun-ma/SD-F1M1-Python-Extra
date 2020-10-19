@@ -36,4 +36,4 @@ Probeer nu een van de andere demo's te starten van de command line. Gebruik de n
 
 ## Volgende stap
 
-[Zelf de Turtle besturen](../02-play-with-turtle-cli)
+[Zelf de Turtle besturen](../02-play-with-turtle-cli){:class="next"}

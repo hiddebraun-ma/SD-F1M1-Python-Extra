@@ -106,7 +106,7 @@ Nadat je de (juiste) bestandsnaam type, wordt het bestand direct verwijderd:
 ---
 
 ## Volgende stap
-[Een lijst met alle bestanden en mappen opvragen en tonen](../07-listing)
+[Een lijst met alle bestanden en mappen opvragen en tonen](../07-listing){:class="next"}
 
 
 

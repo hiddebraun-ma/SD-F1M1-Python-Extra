@@ -150,8 +150,10 @@ Lukt het je om wat hieronder staat te maken in Python?
 ---
 
 ## Klaar! Je werk op Github zetten
+
 Zorg er voor dat je alles wat je hebt gemaakt commit en naar Github pusht, zodat duidelijk is wat je hebt gedaan en hoe ver je bent gekomen. Hier lees je hoe je dat doet.
-[Je werk *committen* en *pushen* naar Github](../../00-setup/commit_push.html)
+
+[Je werk *committen* en *pushen* naar Github](../../00-setup/commit_push.html){:class="next"}
 
 > Dit was wel een flinke opdracht en best ingewikkeld. Dus neem je tijd om er aan te werken.
  

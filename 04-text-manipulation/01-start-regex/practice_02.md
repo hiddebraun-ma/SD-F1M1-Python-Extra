@@ -43,4 +43,4 @@ Geef je meerdere letters op, maar NIET binnen de `[]` dan moeten ze in die volgo
 ---
 
 ## Volgende stap
-[Oefenen met reeksen](practice_03)
+[Oefenen met reeksen](practice_03){:class="next"}

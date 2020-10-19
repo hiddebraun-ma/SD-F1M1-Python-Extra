@@ -23,5 +23,5 @@ Voer nu `pip list` uit om te kijken welke *packages* je hebt geïnstalleerd.
 ---
 
 ## Volgende stap
-[Aan de slag met Pillow](../03-load-pillow)
+[Aan de slag met Pillow](../03-load-pillow){:class="next"}
 

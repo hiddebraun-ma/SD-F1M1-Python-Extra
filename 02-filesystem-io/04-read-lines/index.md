@@ -117,7 +117,7 @@ print(tekst_regel)
 ---
 
 ## Volgende stap
-[Voor elke naam een map aanmaken met een tekstbestand er in](../05-folder-loop)
+[Voor elke naam een map aanmaken met een tekstbestand er in](../05-folder-loop){:class="next"}
 
 
 

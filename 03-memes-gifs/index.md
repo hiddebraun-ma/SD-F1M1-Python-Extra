@@ -24,6 +24,6 @@ Wil je eerst kijken wat je allemaal kunt doen met Pillow? Lees dan de documentat
 ---
 
 ## Volgende stap
-[Beginnen met Pillow](01-install-pillow)
+[Beginnen met Pillow](01-install-pillow){:class="next"}
 
 

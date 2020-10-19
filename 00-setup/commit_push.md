@@ -38,4 +38,4 @@ git push
 
 ----
 
-**Kijk nu op Github of alles in je repository staat.**
+> Kijk nu op Github of alles in je repository staat!

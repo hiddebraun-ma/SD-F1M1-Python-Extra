@@ -1,77 +1,103 @@
 ---
---- 
+---
 
 @import "{{ site.theme }}";
 
 
 body {
-    background: #f7f7f7;
-    color: #333;
-    font-size: 18px;
-    line-height: 24px;
-    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 300;
+  background: #f7f7f7;
+  color: #333;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
-
-a {
-    font-weight: 300;
-}
-
 
 header {
-    background: #000;
+  background: #000;
 
-    h1 {
-        color: #fff;
-        text-shadow: none;
-        font-family: "Source Sans Pro";
-        font-weight: 600;
-    }
+  h1 {
+    color: #fff;
+    border: 0;
+    text-shadow: none;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+  }
+
+  p {
+    font-weight: 400;
+  }
 }
 
+
+.wrapper {
+  width: 850px;
+}
 
 section {
-    background: #ffffff;
+  background: #ffffff;
+  width: auto;
+  padding: 40px 40px 60px 40px;
 
+  ul {
+    list-style-image: none;
+    list-style-type: disc;
+    padding: 10px 30px;
+    background-color: #ceefff;
+  }
 
-    ul {
-        list-style-image: none;
-        list-style-type: square;
-        padding: 40px;
-        background-color: #fdfff3;
-        border-radius: 10px;
-        border: 1px solid #bbb;
-    }
-}
-
-h2 {
-    color: #000;
+  ol {
+    padding: 10px 30px;
+    background-color: #ceefff;
+  }
 }
 
 h3 {
-    font-size: 22px;
+  font-size: 22px;
 }
 
 h3,
 h4,
 h5,
 h6 {
-    color: #FF1293;
-    font-weight: 600;
+  font-weight: 600;
 }
 
 hr {
-    background: #FF1293;
-    height: 2px;
+  background: #bbb;
 }
 
-nav ul {
+nav {
+  margin-left: -680px;
+  ul {
     font-size: 16px;
+
     a {
-        color: #000;
+      color: #000;
     }
+  }
+}
+
+a {
+  &.next {
+    background: #4caf50;
+    padding: 10px 20px;
+    color:#fff;
+    display: inline-block;
+    margin-top: 20px;
+    font-weight: 700;
+    transition: background-color 0.2s ease-in;
+    text-decoration: none;
+    border-radius: 5px;
+
+    &:hover {
+      background-color: #306e32;
+    }
+  }
+
 }
 
 img {
-    border: 1px solid #000;
+  box-shadow: 0 5px 17px -4px #bbb;
+  border: 1px solid #999;
 }

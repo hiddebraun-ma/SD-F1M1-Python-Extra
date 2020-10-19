@@ -48,4 +48,4 @@ Gebruik de regex101.com website. **Maak screenshots en bewaar ze in je map!**
 ---
 
 ## Volgende stap
-[Oefenen met meerdere letters](practice_02)
+[Oefenen met meerdere letters](practice_02){:class="next"}

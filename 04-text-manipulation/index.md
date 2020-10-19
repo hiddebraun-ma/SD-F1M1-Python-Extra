@@ -55,6 +55,6 @@ Wil je er meer over weten en je er verder in verdiepen, kijk dan eens op deze we
 
 ## Opdrachten / uitdagingen
 
-[Starten met regular expressions](01-start-regex/)
+[Starten met regular expressions](01-start-regex/){:class="next"}
 
 

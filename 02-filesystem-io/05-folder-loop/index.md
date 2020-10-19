@@ -19,7 +19,7 @@ Voor het script uit. Als je het goed hebt gedaan krijg je per naam een nieuwe ma
 ---
 
 ## Volgende stap
-[Een bestand of map hernoemen of verwijderen](../06-rename-delete)
+[Een bestand of map hernoemen of verwijderen](../06-rename-delete){:class="next"}
 
 
 

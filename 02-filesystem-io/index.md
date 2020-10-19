@@ -34,6 +34,6 @@ Met deze kennis kun je bijvoorbeeld:
 ---
 
 ## Aan de slag
-[Huidige pad opvragen met de OS module](01-os-module)
+[Huidige pad opvragen met de OS module](01-os-module){:class="next"}
 
 

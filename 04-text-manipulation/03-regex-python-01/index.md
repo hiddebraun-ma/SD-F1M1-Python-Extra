@@ -34,6 +34,6 @@ deze test strings matcht: `0612345678` en `06-12345678`. Hoe match je ook alweer
 
 ## Volgende stap
 
-[Verder met het telefoonnummer](index2)
+[Verder met het telefoonnummer](index2){:class="next"}
 
 

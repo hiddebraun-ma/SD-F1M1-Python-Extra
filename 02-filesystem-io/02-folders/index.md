@@ -95,4 +95,4 @@ print("De map " + mapnaam + " is gemaakt.")
 
 
 ## Volgende stap
- [Een tekstbestand lezen](../03-read-file)
+ [Een tekstbestand lezen](../03-read-file){:class="next"}

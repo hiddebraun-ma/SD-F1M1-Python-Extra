@@ -118,6 +118,6 @@ Resultaat:
 
 > Zo, dat was flink wat informatie. Nu ga je er echt wat mee programmeren in Python.
 
-[Regular expressions gebruiken in Python](../03-regex-python-01)
+[Regular expressions gebruiken in Python](../03-regex-python-01){:class="next"}
 
 

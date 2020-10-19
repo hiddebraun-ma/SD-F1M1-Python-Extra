@@ -40,5 +40,5 @@ Dit kan door tussen de `[]` een reeks op te geven.
 ## Volgende stap
 In de volgende stap ga je nog wat speciale *operators* oefenen. Daarna gaan we dit (eindelijk!) in Python code toepassen.
 
-[Verder oefenen met operators](../02-regex-operators)
+[Verder oefenen met operators](../02-regex-operators){:class="next"}
 

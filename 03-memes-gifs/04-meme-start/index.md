@@ -34,5 +34,5 @@ Nu kun je de meme gaan programmeren met Python (Yeet!)
 ---
 
 ## Volgende stap
-[Tekst op de achtergrond zetten](../05-meme-compose)
+[Tekst op de achtergrond zetten](../05-meme-compose){:class="next"}
 

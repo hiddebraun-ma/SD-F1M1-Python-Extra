@@ -46,4 +46,4 @@ Ga naar de map waar je in werkt deze week (submap van je **Flex-PythonExtra** ma
 ---
 
 ## Volgende stap
-[Loops gebruiken](../05-loop-it/)
+[Loops gebruiken](../05-loop-it/){:class="next"}

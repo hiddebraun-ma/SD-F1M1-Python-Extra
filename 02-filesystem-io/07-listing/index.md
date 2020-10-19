@@ -60,8 +60,10 @@ Nu wordt het soort bestand ook getoond:
 ---
 
 ## Klaar! Je werk op Github zetten
+
 Zorg er voor dat je alles wat je hebt gemaakt commit en naar Github pusht zodat duidelijk is wat je hebt gedaan en hoe ver je bent gekomen. Hier lees je hoe je dat doet.
-[Je werk *committen* en *pushen* naar Github](../../00-setup/commit_push.html)
+
+[Je werk *committen* en *pushen* naar Github](../../00-setup/commit_push.html){:class="next"}
 
 ---
 

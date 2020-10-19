@@ -33,6 +33,6 @@ Het doel is dan ook om aan het einde van de les een mooi kunstwerk of animatie (
 ---
 
 ## Aan de slag!
-[Toon de Turtle demo](01-start-demo/index.md)
+[Toon de Turtle demo](01-start-demo/index.md){:class="next"}
 
 

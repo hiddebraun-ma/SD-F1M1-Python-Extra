@@ -84,5 +84,5 @@ Probeer eerst zelf de hulp voor het *install* (sub)commando op te vragen, en kij
 > Probeer het eerst zelf te installeren en ga daarna pas naar de volgende stap!
 
 ## Volgende stap
-[Pillow inladen in je script](../02-pillow-start)
+[Pillow inladen in je script](../02-pillow-start){:class="next"}
 

@@ -132,5 +132,5 @@ Genoeg geoefend. Je gaat in de volgende stap een achtergrond afbeelding met een 
 ---
 
 ## Volgende stap
-[Je eigen Meme maken](../04-meme-start)
+[Je eigen Meme maken](../04-meme-start){:class="next"}
 

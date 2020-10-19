@@ -29,7 +29,7 @@ Je kunt in plaats van de kleurnaam ook een hexadecimale code gebruiken als je ee
 
 ![](hexcolors.png)
 
-Kies [hier een mooi kleurtje uit](https://htmlcolorcodes.com/){:target="_blank"} kopieer de kleurcode en geeft geeft de turtle het `color` commando met deze kleurcode.
+Kies [hier een mooi kleurtje uit](https://htmlcolorcodes.com/){:target="_blank"} kopieer de kleurcode en geeft de turtle het `color` commando met deze kleurcode.
 
 `turtle.color("#A2FF33")`
 
@@ -71,4 +71,4 @@ turtle.end_fill()
 In de volgende stap ga je een los Python bestand maken dat je kunt uitvoeren met Python!
 
 ## Volgende stap
-[Werken met een Python bestand](../04-python-file/)
+[Werken met een Python bestand](../04-python-file/){:class="next"}

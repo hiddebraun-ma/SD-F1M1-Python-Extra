@@ -76,6 +76,6 @@ print(inhoud)
 
 
 ### Aan de slag
-[Tekstbestand regel voor regel lezen](../04-read-lines)
+[Tekstbestand regel voor regel lezen](../04-read-lines){:class="next"}
 
 

@@ -107,5 +107,5 @@ En dit is de meme:
 ---
 
 ## Volgende stap
-[Tekst positioneren](../06-meme-align-text)
+[Tekst positioneren](../06-meme-align-text){:class="next"}
 
