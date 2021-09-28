@@ -40,3 +40,6 @@ await channel.send("I'm online!")
 > Omdat de messages lang en kort kunnen zijn, en internet snelheden ook erg verschillen weet de Python client niet van te voren hoe lang deze bezig is met het bericht te versturen. Door `await` te gebruiken gaat de client wachten tot het bericht is verstuurt voordat de client verder gaat met de code.
 
 Voer het script uit en kijk of je verschillende teksten kan plaatsen. Eventueel kan je ook met opmaak experimenteren. 
+
+## Volgende stap
+[Script laten reageren op berichten](../04-reageren/){:class="next"}

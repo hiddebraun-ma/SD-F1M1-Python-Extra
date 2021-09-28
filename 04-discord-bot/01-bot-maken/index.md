@@ -33,4 +33,6 @@ We hebben nu een bot user aangemaakt. Deze moet je alleen nog toevoegen aan jouw
 
 Boven Bot Permissions, in Scopes wordt er een URL aangemaakt. Wanneer je jouw bot de juiste permissions hebt gegeven kan je de link kopieeren en in de browser plakken. 
 Hier kan je selecteren in welke server je de bot wilt hebben. Klik op Continue en Authorize om de bot toe te voegen aan jouw eigen server.
- 
+
+## Volgende stap
+[Installeren Discord.py](../02-install-discordpy){:class="next"}

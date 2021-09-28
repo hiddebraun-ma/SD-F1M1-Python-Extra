@@ -22,5 +22,5 @@ Voer nu `pip list` uit om te kijken welke *packages* je hebt geïnstalleerd.
 ---
 
 ## Volgende stap
-[Aan de slag met discord.py](../03-load-pillow){:class="next"}
+[Script bot](../03-script-bot/){:class="next"}
 

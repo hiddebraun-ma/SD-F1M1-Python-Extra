@@ -44,6 +44,6 @@ Wil je er meer over weten en je er verder in verdiepen, kijk dan eens op deze we
 
 ## Opdrachten / uitdagingen
 
-[Starten met regular expressions](01-bot-maken/){:class="next"}
+[Start met het maken van een bot](01-bot-maken/){:class="next"}
 
 

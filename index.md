@@ -9,7 +9,7 @@ Overzicht van onderwerpen Python Extra (voorlopig)
 1. [Tekenen en animeren in Python met Turtle](01-turtle-graphics)
 2. [Lezen en schrijven van bestanden en mappen / Bestandssysteem](02-filesystem-io)
 3. [Afbeeldingen bewerken en Meme’s maken met Pillow](03-memes-gifs)
-4. [Tekstmanipulatie en reguliere expressies (wat zijn dat?)](04-text-manipulation)
+4. [Discord bot maken en deze laten luisteren en reageren](04-discord-bot)
 
 ![](meme.jpg)
 
@@ -22,13 +22,13 @@ In ieder geval heb je er zin in en vind je het leuk om zelf aan de slag te gaan 
 Om aan de lessen mee te kunnen doen heb je een laptop/computer nodig met:
 
 - Python 3
-- IDLE (editor die bij Python zit)
+- Visual Studio Code
 - Git ingesteld 
 - Github account
 
 > **Bij de start van de eerste Python Extra les heb je dit al geinstalleerd en ingesteld.** 
 
-Kom je er niet uit vraag dan hulp aan je buddy uit het 2e of 3e jaar of vraag een klasgenoot of de docent [Hidde Braun](sip:h.braun@ma-web.nl) via de chat functie van Microsoft Teams of per [e-mail](mailto:h.braun@ma-web.nl).
+Kom je er niet uit vraag dan hulp aan de docent [Silvan Herrema](sip:s.herrema@ma-web.nl) via de chat functie van Microsoft Teams of per [e-mail](mailto:s.herrema@ma-web.nl).
 
 ---
 

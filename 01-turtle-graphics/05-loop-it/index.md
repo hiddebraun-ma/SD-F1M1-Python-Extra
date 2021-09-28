@@ -45,14 +45,14 @@ turtle.done()
 ---
 
 ## De code uitvoeren
-Om het bestand uit te voeren kies je bovenin het menu voor *Run > Module (F5)*
+Om het bestand uit te voeren voer je het bestand uit via de terminal.
 
 > We hebben de code om een vierkant te maken dus in een loop gezet en het wordt nu 4x achter elkaar uitgevoerd.
 
 Deze regel zorgt dat er code 4x wordt uitvoert:  
 `for x in range(4):`
 
-* Alleen de code er onder staat en inspringt met **4 spaties!** hoort bij de loop!
+* Alleen de code er onder staat en inspringt met **een tab** hoort bij de loop!
 * Python weet omdat de code inspringt **dat alleen deze code** herhaalt moet worden.
 * Na de 4e keer is Python klaar met de loop en gaat verder met `turtle.done()`
 
@@ -68,7 +68,7 @@ Je kunt dit bestand ook vanaf de command line uitvoeren. Weet je nog hoe je een 
 Open een terminal venster in de map waar je script staat en voer het script uit met Python:
 
 ```python
-python3 hidde.py
+python3 myTurtle.py
 ```
 
 > Uiteraard gebruik je de juiste bestandsnaam van jouw Python bestand!

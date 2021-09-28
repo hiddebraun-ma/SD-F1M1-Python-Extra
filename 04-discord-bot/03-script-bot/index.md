@@ -15,6 +15,8 @@ Om straks het script te laten gebruiken door de bot hebben we de access token no
 * Kijk onder **Applications** en selecteer de bot die je in stap 1 hebt aangemaakt.
 * Bij het tabblad **Bot** kan je de token vinden. Onthou deze locatie want de token hebben we straks nodig. 
 
+![](tokenlocation.png)
+
 ## Client script maken
 
 * Maak in Visual Studio een nieuwe Python file aan met de naam: `discord_bot.py`.
@@ -66,3 +68,6 @@ async def on_ready():
 Voer je script uit en bewonder het resultaat!
 
 Je hebt nu je eigen bot gemaakt en een script verbinding laten maken met de bot. Je hebt zelfs al informatie van de bot uitgelezen. In de volgende pagina ga je de bot berichten laten plaatsen.
+
+## Volgende stap
+[Script bot](../04-messaging/){:class="next"}
