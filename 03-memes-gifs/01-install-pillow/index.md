@@ -38,44 +38,6 @@ pip --help
 Je ziet nu een lijst met all (sub) commando's die je aan pip kunt geven. 
 Die commando's geef je dus **NA** het `pip` commando.
 
----
-
-## Zoeken naar een package
-Zoals je ziet, is er ook een `pip search` (sub)commando. Maar hoe werkt dat (sub)commando? 
-Je kunt voor elk (sub)commando een hulp tekst opvragen.
-
-Dat doe je met: `pip help <subcommando>`
-
-> Vraag de helptekst op voor het (sub)commando `search`:
-
-```bash
-pip help search
-```
-
-> De documentatie van software is technisch beschreven, dus je moet **GOED LEZEN!**. Dat is de enige manier om te snappen hoe je (bijvoorbeeld) *pip* kunt gebruiken.
-
-![](pip-help-search.png)
-
-Hier staat (vertaald naar het Nederlands) dat het `pip search` commando "Zoekt naar PyPI packages waarvan de naam of samenvatting `<query>` bevat".
-De pijl geeft aan waar in het `pip` commando de `<query>` moet komen. 
-
-Het commando wat je moet gaan uitvoeren om naar de *Pillow* package te zoeken is dus... (weet je het?)
-
----
-## Zoeken naar de Pillow package
-Je zoekt naar de *Pillow* package door `pip` zo uit te voeren: 
-
-```bash
-pip search Pillow
-```
-
-Als het goed is krijg je meerdere resultaten terug. Dit komt, omdat veel packages weer gebruik maken van Pillow.
-Scroll een stukje naar boven en kijk of je de *Pillow* package waar we naar op zoek zijn kan vinden:
-
-![](pillow-result.png)
-
-
----
 
 ## Pillow proberen zelf te installeren
 Zoals je in de hulp van *pip* mogelijk al zag, is er ook een *install* sub(commando)
