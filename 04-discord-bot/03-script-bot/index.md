@@ -67,7 +67,7 @@ async def on_ready():
 
 Voer je script uit en bewonder het resultaat!
 
-Je hebt nu je eigen bot gemaakt en een script verbinding laten maken met de bot. Je hebt zelfs al informatie van de bot uitgelezen. In de volgende pagina ga je de bot berichten laten plaatsen.
+Je hebt nu je eigen bot gemaakt en een script verbinding laten maken met de bot. Je hebt zelfs al informatie van de bot uitgelezen. We gaan nu de code uploaden naar github. Hier gaat iets heel leuks gebeuren.
 
 ## Volgende stap
-[Script bot](../04-messaging/){:class="next"}
+[Script bot](../04-github/){:class="next"}

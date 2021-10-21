@@ -42,4 +42,4 @@ await channel.send("I'm online!")
 Voer het script uit en kijk of je verschillende teksten kan plaatsen. Eventueel kan je ook met opmaak experimenteren. 
 
 ## Volgende stap
-[Script laten reageren op berichten](../04-reageren/){:class="next"}
+[Script laten reageren op berichten](../06-reageren/){:class="next"}
