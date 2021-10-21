@@ -1,5 +1,5 @@
 ---
-title: Tekst en regular expressions
+title: Discord Bot maken
 ---
 
 ## Map maken voor deze les
@@ -13,6 +13,7 @@ title: Tekst en regular expressions
 
 ### Discord bots ? Wat zijn dat?
 
+Een Discord Bot is een computer gestuurde discord gebruiker/moderator/admin. Door middel van scripts kan een bot moderator of admin taken automatiseren maar een bot kan ook gebruikt worden voor spelletjes of als tools voor gebruikers. 
 
 ---
 
