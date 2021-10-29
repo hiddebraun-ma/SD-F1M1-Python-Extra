@@ -21,4 +21,4 @@ Developers van grote bots slaan hun token vaak op in een extern bestand en pushe
 In de volgende pagina ga je de bot berichten laten plaatsen.
 
 ## Volgende stap
-[Script bot](../04-github/){:class="next"}
+[Script bot](../05-messaging/){:class="next"}
